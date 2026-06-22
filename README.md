@@ -35,7 +35,7 @@
 
 ---
 
-## 🔭 Visão Geral
+## Visão Geral
 
 No contexto da **Indústria 4.0**, redes de sensores IIoT (*Industrial Internet of Things*) são infraestrutura crítica para monitoramento preditivo de máquinas, automação de processos e coleta de dados em tempo real. Centenas de nós sensores — tipicamente baseados em microcontroladores de baixo consumo como o **ESP32** — precisam transmitir dados continuamente a gateways coordenadores.
 
